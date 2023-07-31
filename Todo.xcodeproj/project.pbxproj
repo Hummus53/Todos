@@ -12,6 +12,7 @@
 		B83C36162A77886F0084570A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B83C36152A77886F0084570A /* Assets.xcassets */; };
 		B83C36192A77886F0084570A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B83C36182A77886F0084570A /* Preview Assets.xcassets */; };
 		B83C36202A77890B0084570A /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83C361F2A77890B0084570A /* Todo.swift */; };
+		B83C36222A7797C30084570A /* TodoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83C36212A7797C30084570A /* TodoDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B83C36152A77886F0084570A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B83C36182A77886F0084570A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B83C361F2A77890B0084570A /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
+		B83C36212A7797C30084570A /* TodoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				B83C36112A77886E0084570A /* TodoApp.swift */,
 				B83C36132A77886E0084570A /* ContentView.swift */,
+				B83C36212A7797C30084570A /* TodoDetailView.swift */,
 				B83C361F2A77890B0084570A /* Todo.swift */,
 				B83C36152A77886F0084570A /* Assets.xcassets */,
 				B83C36172A77886F0084570A /* Preview Content */,
@@ -143,6 +146,7 @@
 				B83C36142A77886E0084570A /* ContentView.swift in Sources */,
 				B83C36202A77890B0084570A /* Todo.swift in Sources */,
 				B83C36122A77886E0084570A /* TodoApp.swift in Sources */,
+				B83C36222A7797C30084570A /* TodoDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
